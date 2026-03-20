@@ -82,6 +82,9 @@ if __name__ == "__main__":
     
     # inputs = [7.6,2.7,6.64,1.4]
     
+    # inputs = [5.0, np.pi, 5.0, 0.0]
+    
+    # main(inputs=inputs, params={"gain": 5e3, "damping": 2e2}, final_time=4.0)
     # main(inputs=inputs, params={"gain": 5e3, "damping": 5e2}, final_time=4.0)
     
     main(inputs=inputs)
