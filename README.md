@@ -1,6 +1,11 @@
 # Continuum Robot Interactions
 
 
+## Quickstart 🚀
+
+```
+python -m pip install -r requirements.txt
+```
 
 
 
