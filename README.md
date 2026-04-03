@@ -1,5 +1,10 @@
 # Continuum Robot Interactions
 
+continumm robot interactions with two approaches:
+
+- pyelastica simulation
+- training a convolutional neural network with synthetic data
+
 
 ## Quickstart 🚀
 
@@ -14,6 +19,10 @@ https://pytorch.org/get-started/locally/
 
 
 ## Examples
+
+```sh
+python example.py
+```
 
 https://github.com/user-attachments/assets/6cc222a4-bdda-4cad-8a9f-c2c719f5a543
 
